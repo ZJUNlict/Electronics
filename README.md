@@ -13,11 +13,11 @@ The single Cyclone III FPGA configuration was adopted since 2012 and explained i
 
 The micro-controller STM32F407 was added to take over tasks other than motor control since late 2017 described in [2018 ETDP](https://zjunlict.cn/?page_id=54). 
 
-Since 2018, a single micro-controller STM32H743 capable of operation frequency up to 400MHz combined with five BLDC controller Allegro A3930 was able to handle all the tasks.
+Since 2018, a single micro-controller STM32H743 capable of operation frequency up to 400MHz combined with five BLDC controller Allegro A3930 was able to handle all the tasks. (Based on [Team Tiger's Opensourced Design](https://tigers-mannheim.de/index.php?id=65))
 
 Other improvements include increasing each encoder's counts per revolution (CPR) to increase motor low-speed control performance, implementation of the accelerometer and compass to achieve more accurate motion tracking and switching to nRF24L01+ wireless IC to deliver higher bandwidth communication with better signal sensitivity.
 
-Please check each board also with possible corresponding firmware based on the following table. The archive of all the opensourced repositories can be found in [our website](https://zjunlict.cn/?page_id=54).
+Please check the intested board design and related firmware shown in the following table. The archive of all the opensourced repositories can be found in [our website](https://zjunlict.cn/?page_id=54).
 
 |                            | Since 2012           | Since 2017                       | Since 2018 |
 |----------------------------|----------------------|----------------------------------|------------|
