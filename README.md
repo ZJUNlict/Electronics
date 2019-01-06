@@ -33,6 +33,18 @@ Please check the intrested board design and related firmware shown in the follow
 |  Communication Protocols   |                      |                                  | [Protocol V2018](https://github.com/ZJUNlict/Wireless_Communication_Protocol) |
 |                            |                      |                                  |   |
 
+The combination of boards on a robot since 2012 is shown in the photo below.
+
+![](./Images/Combination_2012_Shrinked.jpg)
+
+The combination of boards since late 2017 which is currently under testing is shown in the photo below.
+
+![](./Images/Combination_2017_Shrinked.jpg)
+
+The combination of boards since late 2018 which is currently under testing is shown in the photo below.
+
+![](./Images/Combination_2018_Shrinked.jpg)
+
 All of the boards are designed using [Altium Designer](https://www.altium.com/altium-designer/).
 
 The details of how to use the firmware can be found in each firmware's repository.
