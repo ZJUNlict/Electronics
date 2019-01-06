@@ -17,7 +17,7 @@ Since 2018, a single micro-controller STM32H743 capable of operation frequency u
 
 Other improvements include increasing each encoder's counts per revolution (CPR) to increase motor low-speed control performance, implementation of the accelerometer and compass to achieve more accurate motion tracking and switching to nRF24L01+ wireless IC to deliver higher bandwidth communication with better signal sensitivity.
 
-Please check the intested board design and related firmware shown in the following table. The archive of all the opensourced repositories can be found in [our website](https://zjunlict.cn/?page_id=54).
+Please check the intrested board design and related firmware shown in the following table. The archive of all the opensourced repositories can be found on [our website](https://zjunlict.cn/?page_id=54).
 
 |                            | Since 2012           | Since 2017                       | Since 2018 |
 |----------------------------|----------------------|----------------------------------|------------|
