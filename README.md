@@ -37,13 +37,13 @@ The combination of boards on a robot since 2012 is shown in the photo below.
 
 ![](./Images/Combination_2012_Shrinked.jpg)
 
-The combination of boards since late 2017 which is currently under testing is shown in the photo below.
+The combination of boards since late 2017 is shown in the photo below.
 
 ![](./Images/Combination_2017_Shrinked.jpg)
 
 The combination of boards since late 2018 which is currently under testing is shown in the photo below.
 
-![](./Images/Combination_2018_Shrinked.jpg)
+![](./Images/Combination_2019_Shrinked.jpg)
 
 All of the boards are designed using [Altium Designer](https://www.altium.com/altium-designer/).
 
