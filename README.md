@@ -22,7 +22,7 @@ Please check the intrested board design and related firmware shown in the follow
 |                            | Since 2012           | Since 2017                       | Since 2018 |
 |----------------------------|----------------------|----------------------------------|------------|
 | Robot Configurations       | [Core Board](https://github.com/ZJUNlict/Core_Board)           | [Core Board FPGA & STM32](https://github.com/ZJUNlict/Core_Board_FPGA_STM32)          | [Main Board](https://github.com/ZJUNlict/Main_Board) |
-|                            | [Core Board Firmware](https://github.com/ZJUNlict/Firmware_for_Core_Board)  | [Core Board FPGA & STM32 Firmware](https://github.com/ZJUNlict/Firmware_for_Core_Board_FPGA_STM32) |         (Combined into Main Board)   |
+|                            | [Core Board Firmware](https://github.com/ZJUNlict/Firmware_for_Core_Board)  | [Core Board FPGA & STM32 Firmware](https://github.com/ZJUNlict/Firmware_for_Core_Board_FPGA_STM32) |         [Main Board Firmware](https://github.com/ZJUNlict/Main-Board-Firmware)   |
 |                            | [Mother Board](https://github.com/ZJUNlict/Mother_Board)         | [Main Board Test](https://github.com/ZJUNlict/Main_Board_Test)                  |   (Combined into Main Board)  |
 |                            | [Motor Driver Board](https://github.com/ZJUNlict/Motor_Driver_Board)   | (Combined into Main Board Test)                    |    (Combined into Main Board)        |
 |                            | [Booster Board](https://github.com/ZJUNlict/Booster_Board)        |     (Same)                   |     (Same)       |
@@ -48,3 +48,9 @@ The combination of boards since late 2018 which is currently under testing is sh
 All of the boards are designed using [Altium Designer](https://www.altium.com/altium-designer/).
 
 The details of how to use the firmware can be found in each firmware's repository.
+
+All of the boards and related instructions are opensourced under [CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+And all related firmware are opensourced under [CC BY-NC-SA 2.0(Attribution-NonCommercial-ShareAlike 2.0 Generic)](https://creativecommons.org/licenses/by-nc-sa/2.0/) except for source code created by STMicroelectronics.  
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
