@@ -41,9 +41,13 @@ The combination of boards since late 2017 is shown in the photo below.
 
 ![](./Images/Combination_2017_Shrinked.jpg)
 
-The combination of boards since late 2018 which is currently under testing is shown in the photo below.
+The combination of boards since late 2018 is shown in the photo below.
 
 ![](./Images/Combination_2019_Shrinked.jpg)
+
+The combination of boards for RoboCup 2019 is shown in the photo below. 
+
+![](./Images/Combination_2019_RoboCup_Shrinked.jpg)
 
 All of the boards are designed using [Altium Designer](https://www.altium.com/altium-designer/).
 
